@@ -1,2 +1,2 @@
 # sds2-
-sds2 intro to git programming club
+sds2 intro to git programming club hello
